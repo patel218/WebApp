@@ -11,7 +11,7 @@ namespace WebApp.Pages
         {
             _logger = logger;
         }
-# comment only
+
         public void OnGet()
         {
 
